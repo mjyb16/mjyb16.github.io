@@ -1,6 +1,6 @@
 title: Researcher
 url: "darthbarth.science"
-baseurl: "/about"
+baseurl: "/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/about"
+   link: "/"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
