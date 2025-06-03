@@ -3,4 +3,4 @@ _site
 .sass-cache/
 .DS_Store
 .jekyll-cache
-./ipynb_checkpoints/
+.ipynb_checkpoints/
