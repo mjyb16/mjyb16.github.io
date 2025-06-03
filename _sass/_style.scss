@@ -129,5 +129,23 @@ hr {
 	}
 }
 
-@import "typography";
-@import "tables";
+/*
+ * Tables
+ */
+
+table {
+    background-color: #8B0000; // Dark red
+    color: white; // White text
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid #232323; // Slate gray border
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #5A0000; // Slightly darker red for headers
+}
