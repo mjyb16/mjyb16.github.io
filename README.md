@@ -2,6 +2,6 @@
 
 #### Credits go to a couple developers who have created building blocks for my site:
 
-* Jekyll theme: [Ankit Sultana](https://github.com/ankitsultana)
+* Researcher Jekyll theme: [Ankit Sultana](https://github.com/ankitsultana)
 * Cursor effect: [Tim Holman](https://github.com/tholman)
 
