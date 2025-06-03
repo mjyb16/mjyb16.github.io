@@ -8,8 +8,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/mjyb16"
-footer_text: "Page design by Ankit Sultana and M. J. Yantovski-Barth"
+footer_url: "https://github.com/mjyb16/mjyb16.github.io"
+footer_text: "Page design by Ankit Sultana, Tim Holman, and M. J. Yantovski-Barth"
 
 sass:
     style: compressed
