@@ -100,6 +100,13 @@
           ga('send', 'pageview');
         </script>
     {% endif %}
+    <script src="https://unpkg.com/cursor-effects@latest/dist/browser.js"></script>
+    <script>
+      window.addEventListener("load", (event) => {
+        new cursoreffects.fairyDustCursor({
+          colors: ["#FFFF00", "#FFFF00", "#FFFF00"],});
+      });
+    </script>
 </body>
 <footer>
 </footer>
