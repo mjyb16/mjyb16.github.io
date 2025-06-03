@@ -1,6 +1,6 @@
 title: Researcher
 url: "darthbarth.science"
-baseurl: "/home"
+baseurl: "/about"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
