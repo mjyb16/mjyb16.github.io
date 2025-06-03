@@ -2,6 +2,8 @@ title: Researcher
 url: "darthbarth.science"
 baseurl: "/"
 
+remote_theme: ankitsultana/researcher@gem
+
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
