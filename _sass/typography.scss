@@ -37,20 +37,25 @@
         font-style: italic;
     }
     .profile-picture {
-        height: $image-size;
-        width: $image-size;
+        height: 150px; // Fixed height for consistent sizing
+        width: 150px; // Fixed width for consistent sizing
         position: relative;
-        margin: -10px 0 0 15px;
-        float: right;
-        border-radius: 50%;
+        margin: 10px auto; // Center the image with some spacing
+        display: block; // Ensure it behaves as a block element
+        border-radius: 50%; // Circular cropping
+        object-fit: cover; // Ensure the image fits within the circle
+        border: 3px solid white; // Optional: Add a white border for better visibility
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); // Optional: Add a subtle shadow for aesthetics
+
         p & {
             padding: 0;
             margin: 0;
         }
+
         @media (max-width: $small-width) {
-            img {
-                margin-top: -5px;
-            }
+            height: 120px; // Adjust size for smaller screens
+            width: 120px; // Adjust size for smaller screens
+            margin-top: 5px; // Reduce margin for smaller screens
         }
     }
     img {
