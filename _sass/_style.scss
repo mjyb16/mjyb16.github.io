@@ -149,3 +149,12 @@ th, td {
 th {
     background-color: #5A0000; // Slightly darker red for headers
 }
+
+table a {
+    color: #FFFF00; // Yellow links
+    text-decoration: none;
+}
+
+table a:hover {
+    text-decoration: underline; // Add underline on hover for better visibility
+}
