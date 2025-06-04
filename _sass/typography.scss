@@ -37,9 +37,10 @@
         font-style: italic;
     }
     .profile-picture {
-        height: 150px; // Fixed height for consistent sizing
-        width: 150px; // Fixed width for consistent sizing
-        position: relative;
+        max-height: 150px; // Ensure the image doesn't exceed this height
+        max-width: 150px; // Ensure the image doesn't exceed this width
+        width: 100%; // Allow scaling within the max dimensions
+        height: auto; // Maintain aspect ratio
         margin: 10px auto; // Center the image with some spacing
         display: block; // Ensure it behaves as a block element
         border-radius: 50%; // Circular cropping
