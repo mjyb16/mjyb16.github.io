@@ -9,7 +9,7 @@ layout: default
 I am currently a PhD student in astrophysics at the Ciela Institute of the University of Montreal. Previously, I was an undergraduate student at the University of Pittsburgh, during which time I was fortunate to participate in an NSF REU at the National Radio Astronomy Observatory.
 
 ## Research Interests
-Our understanding of the dark side of the universe, from black holes to dark matter and dark energy, has historically been limited by the dark sector's electromagnetic invisibility and the maze of complex physics interactions that occur between the visible and invisible parts of the universe. From a broad perspective, my research goals are to develop new modeling methodologies to bridge this gap between the complexity of the universe as captured in telescope data and the practical need for interpretable, testable mathematical models of our universe. 
+Our understanding of the dark side of the universe, from black holes to dark matter and dark energy, has historically been limited by the dark sector's electromagnetic invisibility and the maze of complex physics interactions that occur between the visible and invisible parts of the universe. From a broad perspective, my research goals are to develop new modeling methodologies to bridge this gap between the complexity of the universe as captured in telescope data and the practical need for interpretable, testable mathematical models for what we observe. 
 
 My current research focus is centered on galactic dynamics in the vicinity of supermassive black holes. I am developing new techniques for high-resolution dynamical mass modeling which can be applied both to local galaxies and to highly-magnified gravitationally lensed galaxies in the early universe. 
 
