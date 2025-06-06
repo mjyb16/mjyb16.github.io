@@ -1,6 +1,6 @@
 ## Quick links: Key Software Packages and Tools
 
-Here is a quick table of various software packages whose development I have lead (^), have been heavily involved in as a developer, or have incorporated into one of my other projects in a major way. Projects whose code I am presently involved in actively maintaining are marked with an asterisk under the collaboration column.
+Here is a quick table of various software packages whose development I have led (^), have been heavily involved in as a developer, or have incorporated into one of my other projects in a major way. Projects whose code I am presently involved in actively maintaining are marked with an asterisk under the collaboration column.
 
 Software name | Collaboration | Description
 --------------|-------------------|--------
