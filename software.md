@@ -20,4 +20,11 @@ These are graphical user interfaces for exploring the functionality of some of m
 
 ### Caustics
 
+<div style="display: flex; height: 500px;">
+    <iframe src="https://ciela-institute-caustics-webapp-guistreamlit-app-yanhhm.streamlit.app/?embed=true" style="flex-grow: 1; width: 100%;"></iframe>
+</div>
+
+If the window doesn't show up just follow this link:
+[caustics-webapp](https://ciela-institute-caustics-webapp-guistreamlit-app-yanhhm.streamlit.app)
+
 ### SuperMAGE
