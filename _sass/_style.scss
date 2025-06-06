@@ -169,8 +169,15 @@ body .profile-picture,
     height: 150px !important;
     border-radius: 50% !important;
     object-fit: cover !important;
-    margin: 10px auto !important;
-    display: block !important;
+    float: left !important; /* Make text wrap around */
+    margin: 0 20px 10px 0 !important; /* Add right margin for spacing between image and text */
     border: 3px solid white !important;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5) !important;
+}
+
+/* Add a clearfix to prevent layout issues after floating elements */
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
 }
