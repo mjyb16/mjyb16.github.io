@@ -3,24 +3,12 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
+* Current email: michael.barth [at] umontreal.ca
 
 ---
 
-## Mailing Address
+## Links
 
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
-
----
-
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [GitHub](https://github.com/mjyb16)
+2. [ORCiD](https://orcid.org/0000-0001-5200-4095)
+3. [Ciela Institute](https://ciela.science/)
