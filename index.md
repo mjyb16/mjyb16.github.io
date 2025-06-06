@@ -27,12 +27,12 @@ Here are some highlights:
 
 ## Software Packages and Tools
 
-Here is a quick table of various open-source software packages whose development I have led (*) or been heavily involved in as a developer (^). Projects whose code I am presently involved in actively maintaining are in bold. I primarily work with Python code. 
+Here is a quick table of various open-source software packages whose development I am leading (^) or have been heavily involved in as a developer. Projects whose code I am presently involved in actively maintaining are in bold. I primarily work with the Python programming language. 
 
 Software name | Collaboration | Description
 --------------|-------------------|--------
-[**Caustics**](https://caustics.readthedocs.io/en/latest/intro.html#) | Ciela Institute^ | Gravitational lensing modeling (GPU-accelerated)
-[Iris](https://github.com/EnceladeCandy/IRIS) | Ciela Institute^ | Interferometric imaging using diffusion model-based Bayesian priors
+[**Caustics**](https://caustics.readthedocs.io/en/latest/intro.html#) | Ciela Institute | Gravitational lensing modeling (GPU-accelerated)
+[Iris](https://github.com/EnceladeCandy/IRIS) | Ciela Institute | Interferometric imaging using diffusion model-based Bayesian priors
 
 ---
 
