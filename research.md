@@ -3,8 +3,8 @@
 For a full list, please go [here](https://ui.adsabs.harvard.edu/search/q=author%3A%22Yantovski-Barth%2C%20M.%20J.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0).
 Here are some highlights:
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. F.Bar, J.Doe: Effects of having a placeholder of a name
+1. Connor Stone, Alexandre Adam, Adam Coogan, M. J. Yantovski-Barth, et al., Journal of Open Source Software, 9(103), 7081, 22 November 2024. [Caustics: A Python Package for Accelerated Strong Gravitational Lensing Simulations](https://ui.adsabs.harvard.edu/abs/2024JOSS....9.7081S/abstract)
+2. M. J. Yantovski-Barth, Jeffrey Newman, et al., MNRAS, 531, 2, Jun 2024. [The CluMPR Galaxy Cluster-Finding Algorithm and DESI Legacy Survey Galaxy Cluster Catalogue](https://ui.adsabs.harvard.edu/abs/2024MNRAS.531.2285Y/abstract)
 
 ## Research Interests
 Our understanding of the dark side of the universe, from black holes to dark matter and dark energy, has historically been limited by the dark sector's electromagnetic invisibility and the maze of complex physics interactions that occur between the visible and invisible parts of the universe. From a broad perspective, my research goals are to develop new modeling methodologies to bridge this gap between the complexity of the universe as captured in telescope data and the practical need for interpretable, testable mathematical models for what we observe. 
