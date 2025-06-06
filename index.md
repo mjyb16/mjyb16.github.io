@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "M. J. Yantovski-Barth"
 ---
 <img src="ALMA_Milky-Way_Less-Green_r6-1170x600.jpg" style="display:block; margin:auto; width:100%">
 
