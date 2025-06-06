@@ -1,6 +1,6 @@
 ## Publications
 
-For a full list, please go [here](https://ui.adsabs.harvard.edu/search/q=author%3A%22Yantovski-Barth%2C%20M.%20J.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+For a full list, please go [here](https://ui.adsabs.harvard.edu/search/q=author%3A%22Yantovski-Barth%2C%20M.%20J.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0).
 Here are some highlights:
 
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
