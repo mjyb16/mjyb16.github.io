@@ -175,9 +175,14 @@ body .profile-picture,
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5) !important;
 }
 
-/* Add a clearfix to prevent layout issues after floating elements */
-.clearfix::after {
+/* Fix for clearfix that might be interfering with text flow */
+.clearfix {
+    display: block;
     content: "";
-    clear: both;
-    display: table;
+    clear: none;
+}
+
+/* Make paragraphs flow around the image */
+.clearfix p {
+    margin-top: 0;
 }
