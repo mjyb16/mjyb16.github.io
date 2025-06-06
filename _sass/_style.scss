@@ -160,13 +160,17 @@ table a:hover {
 }
 
 /* Add this at the end to ensure it overrides any other styles */
-body .content .profile-picture {
+body .content .profile-picture,
+body .profile-picture,
+.profile-picture {
     max-height: 150px;
     max-width: 150px;
     width: 150px !important;
     height: 150px !important;
     border-radius: 50% !important;
-    object-fit: cover;
-    margin: 10px auto;
-    display: block;
+    object-fit: cover !important;
+    margin: 10px auto !important;
+    display: block !important;
+    border: 3px solid white !important;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5) !important;
 }
