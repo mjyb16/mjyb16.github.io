@@ -10,7 +10,7 @@ Here are some highlights:
 Our understanding of the [dark side of the universe](https://www.symmetrymagazine.org/article/voyage-into-the-dark-sector?language_content_entity=und), from black holes to dark matter and dark energy, has historically been limited by the dark sector's electromagnetic invisibility. Astronomers who attempt to indirectly study the dark sector are further challenged the maze of complex physics interactions that occur between the visible and invisible parts of the universe. From a broad perspective, my research goals are to develop new modeling methodologies to bridge this gap between the complexity of the universe as captured in telescope data and the practical need for [mathematical models](https://en.wikipedia.org/wiki/All_models_are_wrong) of what we observe. 
 
 <figure>
-  <img src="ngc383_2.png" style="max-width: 500px">
+  <img src="ngc383_2.png" style="max-width: 384px">
   <figcaption style="font-size: 8px">An image of gas in galaxy NGC383 and a map of its rotational velocity. Image credit: Hengyue Zhang.</figcaption>
 </figure>
 
