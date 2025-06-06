@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="ALMA_Milky-Way_Less-Green_r6-1170x600.jpg" style="display:block; margin:auto; width:75%">
+<img src="ALMA_Milky-Way_Less-Green_r6-1170x600.jpg" style="display:block; margin:auto; width:100%">
 
 ### Welcome to the personal website of Michael James Yantovski-Barth!
 #### The dark side of the universe is a pathway to physics some consider to be…unnatural. 
