@@ -8,9 +8,9 @@ Software name | Collaboration | Description
 [Caustics](https://caustics.readthedocs.io/en/latest/intro.html#) | *[Ciela Institute](https://ciela.science/) | Gravitational lensing simulator (GPU-accelerated)
 ^[CluMPR](https://github.com/mjyb16/CluMPR_DESI) | [Jeffrey Newman et al.](https://janewman-pitt-edu.github.io/) | Galaxy cluster-finder algorithm optimized for photometric optical surveys
 [Iris](https://github.com/EnceladeCandy/IRIS) | [Ciela Institute](https://ciela.science/) | Interferometric imaging using diffusion model-based Bayesian priors
-^[SiRIUS](https://sirius-sim.readthedocs.io/en/latest/index.html) | [NRAO CASA NGI](https://github.com/casangi) | Simulator for radio interferometry (full-stokes Radio Interferometry Measurement Equation)
-^SuperMAGE | *GLAMOR | Coming soon....
-[XRADIO](https://xradio.readthedocs.io/en/latest/) | [NRAO CASA NGI](https://github.com/casangi) | Data I/O for radio interferometry datasets
+[SiRIUS](https://sirius-sim.readthedocs.io/en/latest/index.html) | [NRAO CASA NGI](https://github.com/casangi) | Simulator for radio interferometry (full-stokes Radio Interferometry Measurement Equation)
+^[SuperMAGE](https://supermage.readthedocs.io/en/latest/intro.html) | *GLAMOR | A differentiable, modular gas dynamics simulator for galaxies, built with PyTorch.
+^[VisCube](https://viscube.readthedocs.io/en/latest/intro.html) | *[Ciela Institute](https://ciela.science/)  | UV-space gridding and uncertainty quantification for radio interferometry datasets. 
 
 
 
