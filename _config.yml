@@ -22,12 +22,10 @@ nav:
    link: "research"
  - name: "Software"
    link: "software"
- - name: "Teaching + Outreach"
-   link: "teaching"
  - name: "Blog"
    link: "blog"
  - name: "CV"
-   link: "CV_MICHAEL_BARTH.pdf"
+   link: "CV_MICHAEL_YANTOVSKI_BARTH.pdf"
  - name: "Contact"
    link: "contact"
  
