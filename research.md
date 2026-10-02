@@ -9,7 +9,7 @@ For a full list, please go to my publications on ADS [here](https://ui.adsabs.ha
 Our understanding of the [dark side of the universe](https://www.symmetrymagazine.org/article/voyage-into-the-dark-sector?language_content_entity=und), from black holes to dark matter and dark energy, has historically been limited by the dark sector's electromagnetic invisibility. Astronomers who attempt to indirectly study the dark sector are further challenged by the maze of complex physics interactions that occur between the visible and invisible parts of the universe. From a broad perspective, my research goals are to develop new modeling methodologies to bridge this gap between the complexity of the universe as captured in telescope data and the practical need for [mathematical models](https://en.wikipedia.org/wiki/All_models_are_wrong) of what we observe. 
 
 <figure>
-  <img src="ngc4697_core_sersic_combined_nested_sampling_animation.gif" style="width: 75%">
+  <img src="ngc4697_core_sersic_combined_nested_sampling_animation.gif" style="width: 100%">
   <figcaption style="font-size: 12px; width: 75%">Fitting a model for the spinning gas disk in galaxy NGC 4697. The gas disk is modeled with the [SuperMAGE](https://github.com/mjyb16/supermage) simulator. By generating simulator outputs for multiple plausible sets of model parameters and then comparing them to the data (guided by sampling algorithms such as [Nautilus](https://github.com/johannesulf/nautilus)), we can survey the range of possibilities for the black hole mass at the center of the galaxy. The search process starts with a broad survey of all parameters (including some that even move the galaxy beyond the edges of this video), and then as the sampler learns what values of the parameters are reasonable, it is able to narrow down the range and produce a galaxy that looks like the data.</figcaption>
 </figure>
 
@@ -21,7 +21,7 @@ My current research focus is centered on galaxy dynamics in the vicinity of [sup
 </figure>
 
 <figure>
-  <img src="id141_core_sersic_loosened_qmin0.1_nested_sampling_animation.gif" style="width: 75%">
+  <img src="id141_core_sersic_loosened_qmin0.1_nested_sampling_animation.gif" style="width: 100%">
   <figcaption style="font-size: 12px; width: 75%">Fitting a model for the spinning gas disk in the gravitationally-lensed galaxy ID 141. The light from this galaxy is distorted into two curved and magnified images due to the gravity of two other galaxies (invisible in this data) which bends light rays as they pass by. The gas disk is modeled with [SuperMAGE](https://github.com/mjyb16/supermage), and the effect of gravitational lensing is modeled with [Caustics](https://github.com/Ciela-Institute/caustics). Just as for galaxy NGC 4697 above, we can use sampling algorithms to survey the range of possibilities for what this galaxy would look like without the distortion of gravitational lensing (right panel) and thereby derive the range of black hole masses that are consistent with the data. </figcaption>
 </figure>
 
