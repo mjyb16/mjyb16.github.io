@@ -186,3 +186,31 @@ body .profile-picture,
 .clearfix p {
     margin-top: 0;
 }
+/* Research page formatting */
+
+.research-page {
+    text-align: justify;
+
+    figure {
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    figure img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    figcaption {
+        margin: 8px auto 24px auto;
+        text-align: center;
+        font-size: 12px;
+        line-height: 1.4;
+    }
+
+    figcaption.long-caption {
+        text-align: justify;
+    }
+}
