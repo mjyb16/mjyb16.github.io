@@ -2,7 +2,7 @@
 
 For an annotated publication list, please see the last page of my [CV](https://darthbarth.science/CV_MICHAEL_YANTOVSKI_BARTH.pdf).
 
-For a full list, please go to my publications on ADS [here](https://ui.adsabs.harvard.edu/search/q=author%3A%22Yantovski-Barth%2C%20M.%20J.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0) or on arxiv [here](https://arxiv.org/search/astro-ph?query=Yantovski-Barth&searchtype=author&abstracts=show&order=-announced_date_first&size=50)
+For a full list, please go to my publications on ADS [here](https://ui.adsabs.harvard.edu/search/q=author%3A%22Yantovski-Barth%2C%20M.%20J.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0) or on arxiv [here](https://arxiv.org/search/astro-ph?query=Yantovski-Barth&searchtype=author&abstracts=show&order=-announced_date_first&size=50).
 
 
 ## Research Interests
