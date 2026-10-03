@@ -10,7 +10,7 @@ Software name | Collaboration | Description
 [Iris](https://github.com/EnceladeCandy/IRIS) | [Ciela Institute](https://ciela.science/) | Interferometric imaging using diffusion model-based Bayesian priors
 [SiRIUS](https://sirius-sim.readthedocs.io/en/latest/index.html) | [NRAO CASA NGI](https://github.com/casangi) | Simulator for radio interferometry (full-stokes Radio Interferometry Measurement Equation)
 ^[SuperMAGE](https://supermage.readthedocs.io/en/latest/intro.html) | *GLAMOR | A differentiable, modular gas dynamics simulator for galaxies, built with PyTorch.
-^[VisCube](https://viscube.readthedocs.io/en/latest/intro.html) | *[Ciela Institute](https://ciela.science/)  | UV-space gridding and uncertainty quantification for radio interferometry datasets. 
+^[VisCube](https://viscube.readthedocs.io/en/latest/intro.html) | *GLAMOR  | UV-space gridding and uncertainty quantification for radio interferometry datasets. 
 
 
 
